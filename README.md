@@ -9,7 +9,7 @@ Feel free to view, replicate or use these codes.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# [Leap Year Checker - Python](https://github.com/eugenemanugas/Portfolio/blob/d84483c0b9262383d005474b025701cd568bf97c/Leap%20Year%20Checker%20Project/Leap%20Year%20-%20Python.ipynb)
+## [Leap Year Checker - Python](https://github.com/eugenemanugas/Portfolio/blob/d84483c0b9262383d005474b025701cd568bf97c/Leap%20Year%20Checker%20Project/Leap%20Year%20-%20Python.ipynb)
 What is a leap year?   
 To be a leap year, the year number must be divisible by four – except for end-of-century years, which must be divisible by 400. This means that the year 2000 was a leap year, although 1900 was not. 2020, 2024 and 2028 are all leap years.
 
@@ -80,8 +80,8 @@ Copy and run this code in an IDE of your choice.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# Web Scraper Project - Python
-## [Lazada Item Price Drop](https://github.com/eugenemanugas/Portfolio/blob/d84483c0b9262383d005474b025701cd568bf97c/Web%20Scraper%20Project/Lazada%20Item%20Price%20Drop/Lazada%20Web%20Scraper%20Project.ipynb)
+## Web Scraper Project - Python
+### [Lazada Item Price Drop](https://github.com/eugenemanugas/Portfolio/blob/d84483c0b9262383d005474b025701cd568bf97c/Web%20Scraper%20Project/Lazada%20Item%20Price%20Drop/Lazada%20Web%20Scraper%20Project.ipynb)
 Have you ever had an item you liked but thought it could be priced better?   
 You added it in your wishlist and checked on it everyday hoping for the price to drop at some point.   
 Days passed and the price has not moved at all. Frustrating right?   
