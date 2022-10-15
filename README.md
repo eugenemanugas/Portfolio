@@ -3,7 +3,7 @@
    
    
    
-**Hi There!** 
+**Hi There!**   
 These are a few of the exercise projects I made as I dive deeper into data analytics.   
 Feel free to view, replicate or use these codes. 
 
@@ -81,7 +81,7 @@ Copy and run this code in an IDE of your choice.
 
 
 # Web Scraper Project - Python
-# [Lazada Item Price Drop](https://github.com/eugenemanugas/Portfolio/blob/d84483c0b9262383d005474b025701cd568bf97c/Web%20Scraper%20Project/Lazada%20Item%20Price%20Drop/Lazada%20Web%20Scraper%20Project.ipynb)
+## [Lazada Item Price Drop](https://github.com/eugenemanugas/Portfolio/blob/d84483c0b9262383d005474b025701cd568bf97c/Web%20Scraper%20Project/Lazada%20Item%20Price%20Drop/Lazada%20Web%20Scraper%20Project.ipynb)
 Have you ever had an item you liked but thought it could be priced better?   
 You added it in your wishlist and checked on it everyday hoping for the price to drop at some point.   
 Days passed and the price has not moved at all. Frustrating right?   
